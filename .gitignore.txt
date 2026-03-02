@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Model files (optional if large)
+outputs/model/
+
+# Large processed files (optional)
+data/processed/
+outputs/model/
+*.pkl
