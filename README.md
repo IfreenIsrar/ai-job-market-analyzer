@@ -55,7 +55,7 @@ Model interpretability
 Modular ML pipeline design
 
 ▶️ How to Run
-git clone https://github.com/YOUR_USERNAME/ai-job-market-analyzer.git
+git clone https://github.com/IfreenIsrar/ai-job-market-analyzer.git
 cd ai-job-market-analyzer
 pip install -r requirements.txt
 python main.py
